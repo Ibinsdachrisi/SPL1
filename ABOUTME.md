@@ -8,3 +8,8 @@
 ## Skills
 * Playing Trombone
 * Getting over it
+
+## Programming Skills
+* Java
+* Java Script
+* Python
